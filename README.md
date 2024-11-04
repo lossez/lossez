@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taqiudin Ahyari</h1>
-<h3 align="center">A passionate Mobile Developer but now I'm Fullstack Developer</h3>
+<h3 align="center">A passionate Mobile Developer but now I'm Front End Developer</h3>
 <br>  
 
 # 📊 Github Stats
